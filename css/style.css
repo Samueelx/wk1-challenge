@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.btn {
+    width: 15rem;
+    height: 3rem;
+}
+.btn:hover {
+    cursor: pointer;
+}
