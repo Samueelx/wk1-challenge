@@ -29,5 +29,8 @@ The solution to the second challenge (Speed detector) is in the `solutions/speed
 ### Challenge 3 solution:
 The solution to the third challenge (Net Salary Calculator) is in the `solutions/salary.js` file. To run/test the program, open your terminal at the root of this project and run: `node solutions/salary.js`. To change the basic salary and benefits values, you can change the arguments to the `salaryCalculator(basicSalary, benefits)` function call. 
 
+## Author
+Samuel Gitau
+
 ## Licence
 [MIT](https://github.com/Samueelx/wk1-challenge/blob/master/LICENCE)
