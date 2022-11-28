@@ -72,4 +72,4 @@ console.log(`PAYE: ${calculatePaye(90000)}
 NHIF: ${calculateNhif(90000)}
 NSSF: ${calculateNssf(90000)}
 `);
-console.log(`Your net pay is: ${salaryCalculator(90000, 0)}`);
+console.log(`Your net pay is: ${salaryCalculator(90000, 20000)}`);
